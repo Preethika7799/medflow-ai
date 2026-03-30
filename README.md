@@ -162,17 +162,21 @@ Main takeaway: fine-tuned Qwen 2.5-3B matches GPT-4o-mini accuracy on this class
 
 Four tabs, all wired to the live API and evaluation results:
 
+**Home** — landing view for the Streamlit app.
+
+![App home](files/app_home.png)
+
 **Document viewer** — lists all processed documents with classification, page count, processing time.
 
-![Document Viewer](docs/screenshots/document_viewer.png)
+![Document viewer](files/document_viewer.png)
 
 **Search** — natural language search across all documents with cited results and retrieval strategy details.
 
-![Search Interface](docs/screenshots/query_interface.png)
+![Query interface](files/query_interface.png)
 
 **Evaluation metrics** — faithfulness, relevancy, hallucination trends across evaluation runs.
 
-![Evaluation Metrics](docs/screenshots/evaluation_metrics.png)
+![Evaluation metrics](files/evaluation_metrics.png)
 
 ---
 
