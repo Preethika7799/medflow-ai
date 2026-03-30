@@ -1,0 +1,14 @@
+env: production
+
+llm:
+  temperature: 0.0
+  max_retries: 5
+
+langfuse:
+  enabled: true
+
+deidentify:
+  log_detections: true
+
+api:
+  rate_limit_per_minute: 60

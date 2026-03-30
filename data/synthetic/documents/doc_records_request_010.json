@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_records_request_010",
+  "category": "RECORDS_REQUEST",
+  "phi_seed": {
+    "patient": "Avery Chen",
+    "mrn": "MRN-7600010",
+    "dob": "1980-11-11",
+    "npi": "1000000170"
+  },
+  "filename_stem": "doc_records_request_010"
+}

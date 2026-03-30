@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_referral_008",
+  "category": "REFERRAL",
+  "phi_seed": {
+    "patient": "Morgan Shah",
+    "mrn": "MRN-7600008",
+    "dob": "1978-09-09",
+    "npi": "1000000136"
+  },
+  "filename_stem": "doc_referral_008"
+}

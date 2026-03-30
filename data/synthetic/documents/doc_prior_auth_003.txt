@@ -1,0 +1,6 @@
+PATIENT: Morgan Shah  MRN MRN-7600003  DOB 1973-04-04
+PRIOR AUTHORIZATION REQUEST
+Requested procedure: MRI lumbar spine without contrast.
+CPT: 72148  Diagnosis: M54.5 low back pain.
+Ordering provider NPI: 1000000051
+Medical necessity: persistent radicular symptoms 8 weeks.

@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_lab_results_016",
+  "category": "LAB_RESULTS",
+  "phi_seed": {
+    "patient": "Jordan Blake",
+    "mrn": "MRN-7600016",
+    "dob": "1986-05-17",
+    "npi": "1000000272"
+  },
+  "filename_stem": "doc_lab_results_016"
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_insurance_020",
+  "category": "INSURANCE",
+  "phi_seed": {
+    "patient": "Avery Chen",
+    "mrn": "MRN-7600020",
+    "dob": "1970-09-21",
+    "npi": "1000000340"
+  },
+  "filename_stem": "doc_insurance_020"
+}

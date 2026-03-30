@@ -1,0 +1,583 @@
+[
+  {
+    "id": "qa_001",
+    "question": "What is the document type for doc_prior_auth_001?",
+    "ground_truth": "The document is categorized as PRIOR_AUTH synthetic intake.",
+    "source_doc_ids": [
+      "doc_prior_auth_001"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_002",
+    "question": "What CPT code appears in doc_prior_auth_001?",
+    "ground_truth": "CPT 72148 is documented for MRI lumbar spine without contrast.",
+    "source_doc_ids": [
+      "doc_prior_auth_001"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_003",
+    "question": "What is the document type for doc_prior_auth_002?",
+    "ground_truth": "The document is categorized as PRIOR_AUTH synthetic intake.",
+    "source_doc_ids": [
+      "doc_prior_auth_002"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_004",
+    "question": "What CPT code appears in doc_prior_auth_002?",
+    "ground_truth": "CPT 72148 is documented for MRI lumbar spine without contrast.",
+    "source_doc_ids": [
+      "doc_prior_auth_002"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_005",
+    "question": "What is the document type for doc_prior_auth_003?",
+    "ground_truth": "The document is categorized as PRIOR_AUTH synthetic intake.",
+    "source_doc_ids": [
+      "doc_prior_auth_003"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_006",
+    "question": "What CPT code appears in doc_prior_auth_003?",
+    "ground_truth": "CPT 72148 is documented for MRI lumbar spine without contrast.",
+    "source_doc_ids": [
+      "doc_prior_auth_003"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_007",
+    "question": "What is the document type for doc_prior_auth_004?",
+    "ground_truth": "The document is categorized as PRIOR_AUTH synthetic intake.",
+    "source_doc_ids": [
+      "doc_prior_auth_004"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_008",
+    "question": "What CPT code appears in doc_prior_auth_004?",
+    "ground_truth": "CPT 72148 is documented for MRI lumbar spine without contrast.",
+    "source_doc_ids": [
+      "doc_prior_auth_004"
+    ],
+    "category": "PRIOR_AUTH",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_009",
+    "question": "What is the document type for doc_referral_005?",
+    "ground_truth": "The document is categorized as REFERRAL synthetic intake.",
+    "source_doc_ids": [
+      "doc_referral_005"
+    ],
+    "category": "REFERRAL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_010",
+    "question": "What is the document type for doc_referral_006?",
+    "ground_truth": "The document is categorized as REFERRAL synthetic intake.",
+    "source_doc_ids": [
+      "doc_referral_006"
+    ],
+    "category": "REFERRAL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_011",
+    "question": "What is the document type for doc_referral_007?",
+    "ground_truth": "The document is categorized as REFERRAL synthetic intake.",
+    "source_doc_ids": [
+      "doc_referral_007"
+    ],
+    "category": "REFERRAL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_012",
+    "question": "What is the document type for doc_referral_008?",
+    "ground_truth": "The document is categorized as REFERRAL synthetic intake.",
+    "source_doc_ids": [
+      "doc_referral_008"
+    ],
+    "category": "REFERRAL",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_013",
+    "question": "What is the document type for doc_records_request_009?",
+    "ground_truth": "The document is categorized as RECORDS_REQUEST synthetic intake.",
+    "source_doc_ids": [
+      "doc_records_request_009"
+    ],
+    "category": "RECORDS_REQUEST",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_014",
+    "question": "What is the document type for doc_records_request_010?",
+    "ground_truth": "The document is categorized as RECORDS_REQUEST synthetic intake.",
+    "source_doc_ids": [
+      "doc_records_request_010"
+    ],
+    "category": "RECORDS_REQUEST",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_015",
+    "question": "What is the document type for doc_records_request_011?",
+    "ground_truth": "The document is categorized as RECORDS_REQUEST synthetic intake.",
+    "source_doc_ids": [
+      "doc_records_request_011"
+    ],
+    "category": "RECORDS_REQUEST",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_016",
+    "question": "What is the document type for doc_records_request_012?",
+    "ground_truth": "The document is categorized as RECORDS_REQUEST synthetic intake.",
+    "source_doc_ids": [
+      "doc_records_request_012"
+    ],
+    "category": "RECORDS_REQUEST",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_017",
+    "question": "What is the document type for doc_lab_results_013?",
+    "ground_truth": "The document is categorized as LAB_RESULTS synthetic intake.",
+    "source_doc_ids": [
+      "doc_lab_results_013"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_018",
+    "question": "Summarize key labs for document doc_lab_results_013.",
+    "ground_truth": "Glucose and renal function are listed with normal TSH.",
+    "source_doc_ids": [
+      "doc_lab_results_013"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_019",
+    "question": "What is the document type for doc_lab_results_014?",
+    "ground_truth": "The document is categorized as LAB_RESULTS synthetic intake.",
+    "source_doc_ids": [
+      "doc_lab_results_014"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_020",
+    "question": "Summarize key labs for document doc_lab_results_014.",
+    "ground_truth": "Glucose and renal function are listed with normal TSH.",
+    "source_doc_ids": [
+      "doc_lab_results_014"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_021",
+    "question": "What is the document type for doc_lab_results_015?",
+    "ground_truth": "The document is categorized as LAB_RESULTS synthetic intake.",
+    "source_doc_ids": [
+      "doc_lab_results_015"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_022",
+    "question": "Summarize key labs for document doc_lab_results_015.",
+    "ground_truth": "Glucose and renal function are listed with normal TSH.",
+    "source_doc_ids": [
+      "doc_lab_results_015"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_023",
+    "question": "What is the document type for doc_lab_results_016?",
+    "ground_truth": "The document is categorized as LAB_RESULTS synthetic intake.",
+    "source_doc_ids": [
+      "doc_lab_results_016"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_024",
+    "question": "Summarize key labs for document doc_lab_results_016.",
+    "ground_truth": "Glucose and renal function are listed with normal TSH.",
+    "source_doc_ids": [
+      "doc_lab_results_016"
+    ],
+    "category": "LAB_RESULTS",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa_025",
+    "question": "What is the document type for doc_insurance_017?",
+    "ground_truth": "The document is categorized as INSURANCE synthetic intake.",
+    "source_doc_ids": [
+      "doc_insurance_017"
+    ],
+    "category": "INSURANCE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_026",
+    "question": "What is the document type for doc_insurance_018?",
+    "ground_truth": "The document is categorized as INSURANCE synthetic intake.",
+    "source_doc_ids": [
+      "doc_insurance_018"
+    ],
+    "category": "INSURANCE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_027",
+    "question": "What is the document type for doc_insurance_019?",
+    "ground_truth": "The document is categorized as INSURANCE synthetic intake.",
+    "source_doc_ids": [
+      "doc_insurance_019"
+    ],
+    "category": "INSURANCE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_028",
+    "question": "What is the document type for doc_insurance_020?",
+    "ground_truth": "The document is categorized as INSURANCE synthetic intake.",
+    "source_doc_ids": [
+      "doc_insurance_020"
+    ],
+    "category": "INSURANCE",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_029",
+    "question": "What is the document type for doc_other_021?",
+    "ground_truth": "The document is categorized as OTHER synthetic intake.",
+    "source_doc_ids": [
+      "doc_other_021"
+    ],
+    "category": "OTHER",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_030",
+    "question": "What is the document type for doc_other_022?",
+    "ground_truth": "The document is categorized as OTHER synthetic intake.",
+    "source_doc_ids": [
+      "doc_other_022"
+    ],
+    "category": "OTHER",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_031",
+    "question": "What is the document type for doc_other_023?",
+    "ground_truth": "The document is categorized as OTHER synthetic intake.",
+    "source_doc_ids": [
+      "doc_other_023"
+    ],
+    "category": "OTHER",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_032",
+    "question": "What is the document type for doc_other_024?",
+    "ground_truth": "The document is categorized as OTHER synthetic intake.",
+    "source_doc_ids": [
+      "doc_other_024"
+    ],
+    "category": "OTHER",
+    "difficulty": "easy"
+  },
+  {
+    "id": "qa_033",
+    "question": "Compare focus of doc_other_021 versus doc_prior_auth_004.",
+    "ground_truth": "doc_other_021 concerns OTHER while doc_prior_auth_004 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_other_021",
+      "doc_prior_auth_004"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_034",
+    "question": "Compare focus of doc_prior_auth_001 versus doc_other_024.",
+    "ground_truth": "doc_prior_auth_001 concerns PRIOR_AUTH while doc_other_024 concerns OTHER.",
+    "source_doc_ids": [
+      "doc_prior_auth_001",
+      "doc_other_024"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_035",
+    "question": "Compare focus of doc_records_request_009 versus doc_referral_008.",
+    "ground_truth": "doc_records_request_009 concerns RECORDS_REQUEST while doc_referral_008 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_records_request_009",
+      "doc_referral_008"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_036",
+    "question": "Compare focus of doc_referral_008 versus doc_referral_005.",
+    "ground_truth": "doc_referral_008 concerns REFERRAL while doc_referral_005 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_referral_008",
+      "doc_referral_005"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_037",
+    "question": "Compare focus of doc_other_024 versus doc_prior_auth_004.",
+    "ground_truth": "doc_other_024 concerns OTHER while doc_prior_auth_004 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_other_024",
+      "doc_prior_auth_004"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_038",
+    "question": "Compare focus of doc_other_022 versus doc_other_024.",
+    "ground_truth": "doc_other_022 concerns OTHER while doc_other_024 concerns OTHER.",
+    "source_doc_ids": [
+      "doc_other_022",
+      "doc_other_024"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_039",
+    "question": "Compare focus of doc_insurance_018 versus doc_prior_auth_003.",
+    "ground_truth": "doc_insurance_018 concerns INSURANCE while doc_prior_auth_003 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_insurance_018",
+      "doc_prior_auth_003"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_040",
+    "question": "Compare focus of doc_insurance_019 versus doc_lab_results_014.",
+    "ground_truth": "doc_insurance_019 concerns INSURANCE while doc_lab_results_014 concerns LAB_RESULTS.",
+    "source_doc_ids": [
+      "doc_insurance_019",
+      "doc_lab_results_014"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_041",
+    "question": "Compare focus of doc_prior_auth_002 versus doc_prior_auth_001.",
+    "ground_truth": "doc_prior_auth_002 concerns PRIOR_AUTH while doc_prior_auth_001 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_prior_auth_002",
+      "doc_prior_auth_001"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_042",
+    "question": "Compare focus of doc_prior_auth_003 versus doc_referral_007.",
+    "ground_truth": "doc_prior_auth_003 concerns PRIOR_AUTH while doc_referral_007 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_prior_auth_003",
+      "doc_referral_007"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_043",
+    "question": "Compare focus of doc_referral_008 versus doc_insurance_017.",
+    "ground_truth": "doc_referral_008 concerns REFERRAL while doc_insurance_017 concerns INSURANCE.",
+    "source_doc_ids": [
+      "doc_referral_008",
+      "doc_insurance_017"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_044",
+    "question": "Compare focus of doc_insurance_020 versus doc_prior_auth_001.",
+    "ground_truth": "doc_insurance_020 concerns INSURANCE while doc_prior_auth_001 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_insurance_020",
+      "doc_prior_auth_001"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_045",
+    "question": "Compare focus of doc_insurance_018 versus doc_referral_007.",
+    "ground_truth": "doc_insurance_018 concerns INSURANCE while doc_referral_007 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_insurance_018",
+      "doc_referral_007"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_046",
+    "question": "Compare focus of doc_other_023 versus doc_other_021.",
+    "ground_truth": "doc_other_023 concerns OTHER while doc_other_021 concerns OTHER.",
+    "source_doc_ids": [
+      "doc_other_023",
+      "doc_other_021"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_047",
+    "question": "Compare focus of doc_other_023 versus doc_insurance_018.",
+    "ground_truth": "doc_other_023 concerns OTHER while doc_insurance_018 concerns INSURANCE.",
+    "source_doc_ids": [
+      "doc_other_023",
+      "doc_insurance_018"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_048",
+    "question": "Compare focus of doc_lab_results_014 versus doc_referral_008.",
+    "ground_truth": "doc_lab_results_014 concerns LAB_RESULTS while doc_referral_008 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_lab_results_014",
+      "doc_referral_008"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_049",
+    "question": "Compare focus of doc_lab_results_015 versus doc_insurance_019.",
+    "ground_truth": "doc_lab_results_015 concerns LAB_RESULTS while doc_insurance_019 concerns INSURANCE.",
+    "source_doc_ids": [
+      "doc_lab_results_015",
+      "doc_insurance_019"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_050",
+    "question": "Compare focus of doc_records_request_009 versus doc_prior_auth_001.",
+    "ground_truth": "doc_records_request_009 concerns RECORDS_REQUEST while doc_prior_auth_001 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_records_request_009",
+      "doc_prior_auth_001"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_051",
+    "question": "Compare focus of doc_referral_006 versus doc_other_023.",
+    "ground_truth": "doc_referral_006 concerns REFERRAL while doc_other_023 concerns OTHER.",
+    "source_doc_ids": [
+      "doc_referral_006",
+      "doc_other_023"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_052",
+    "question": "Compare focus of doc_lab_results_014 versus doc_records_request_011.",
+    "ground_truth": "doc_lab_results_014 concerns LAB_RESULTS while doc_records_request_011 concerns RECORDS_REQUEST.",
+    "source_doc_ids": [
+      "doc_lab_results_014",
+      "doc_records_request_011"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_053",
+    "question": "Compare focus of doc_records_request_009 versus doc_referral_005.",
+    "ground_truth": "doc_records_request_009 concerns RECORDS_REQUEST while doc_referral_005 concerns REFERRAL.",
+    "source_doc_ids": [
+      "doc_records_request_009",
+      "doc_referral_005"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_054",
+    "question": "Compare focus of doc_referral_007 versus doc_records_request_011.",
+    "ground_truth": "doc_referral_007 concerns REFERRAL while doc_records_request_011 concerns RECORDS_REQUEST.",
+    "source_doc_ids": [
+      "doc_referral_007",
+      "doc_records_request_011"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_055",
+    "question": "Compare focus of doc_prior_auth_004 versus doc_prior_auth_003.",
+    "ground_truth": "doc_prior_auth_004 concerns PRIOR_AUTH while doc_prior_auth_003 concerns PRIOR_AUTH.",
+    "source_doc_ids": [
+      "doc_prior_auth_004",
+      "doc_prior_auth_003"
+    ],
+    "category": "OTHER",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa_056",
+    "question": "What is the patient's favorite color according to charts?",
+    "ground_truth": "Not contained in synthetic corpus \u2014 assistant should abstain.",
+    "source_doc_ids": [],
+    "category": "OTHER",
+    "difficulty": "hard"
+  }
+]

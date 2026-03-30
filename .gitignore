@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.env
+!.env.example
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+# Synthetic corpus may be committed for demos; uncomment to ignore large binaries
+# data/synthetic/documents/*.pdf
+evaluation_results/
+*.db
+.DS_Store
+paddleocr/
+inference/

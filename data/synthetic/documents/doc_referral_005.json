@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_referral_005",
+  "category": "REFERRAL",
+  "phi_seed": {
+    "patient": "Avery Chen",
+    "mrn": "MRN-7600005",
+    "dob": "1975-06-06",
+    "npi": "1000000085"
+  },
+  "filename_stem": "doc_referral_005"
+}

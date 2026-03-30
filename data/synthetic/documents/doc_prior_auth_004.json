@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_prior_auth_004",
+  "category": "PRIOR_AUTH",
+  "phi_seed": {
+    "patient": "Casey Lopez",
+    "mrn": "MRN-7600004",
+    "dob": "1974-05-05",
+    "npi": "1000000068"
+  },
+  "filename_stem": "doc_prior_auth_004"
+}

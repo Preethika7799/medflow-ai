@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_prior_auth_002",
+  "category": "PRIOR_AUTH",
+  "phi_seed": {
+    "patient": "Riley Patel",
+    "mrn": "MRN-7600002",
+    "dob": "1972-03-03",
+    "npi": "1000000034"
+  },
+  "filename_stem": "doc_prior_auth_002"
+}

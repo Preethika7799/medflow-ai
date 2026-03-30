@@ -1,0 +1,6 @@
+PATIENT: Jordan Blake  MRN MRN-7600001  DOB 1971-02-02
+PRIOR AUTHORIZATION REQUEST
+Requested procedure: MRI lumbar spine without contrast.
+CPT: 72148  Diagnosis: M54.5 low back pain.
+Ordering provider NPI: 1000000017
+Medical necessity: persistent radicular symptoms 8 weeks.

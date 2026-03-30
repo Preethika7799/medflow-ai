@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_lab_results_015",
+  "category": "LAB_RESULTS",
+  "phi_seed": {
+    "patient": "Avery Chen",
+    "mrn": "MRN-7600015",
+    "dob": "1985-04-16",
+    "npi": "1000000255"
+  },
+  "filename_stem": "doc_lab_results_015"
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_lab_results_013",
+  "category": "LAB_RESULTS",
+  "phi_seed": {
+    "patient": "Morgan Shah",
+    "mrn": "MRN-7600013",
+    "dob": "1983-02-14",
+    "npi": "1000000221"
+  },
+  "filename_stem": "doc_lab_results_013"
+}

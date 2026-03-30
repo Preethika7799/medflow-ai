@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_prior_auth_001",
+  "category": "PRIOR_AUTH",
+  "phi_seed": {
+    "patient": "Jordan Blake",
+    "mrn": "MRN-7600001",
+    "dob": "1971-02-02",
+    "npi": "1000000017"
+  },
+  "filename_stem": "doc_prior_auth_001"
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_prior_auth_003",
+  "category": "PRIOR_AUTH",
+  "phi_seed": {
+    "patient": "Morgan Shah",
+    "mrn": "MRN-7600003",
+    "dob": "1973-04-04",
+    "npi": "1000000051"
+  },
+  "filename_stem": "doc_prior_auth_003"
+}

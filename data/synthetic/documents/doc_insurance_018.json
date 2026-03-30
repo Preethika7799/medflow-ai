@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_insurance_018",
+  "category": "INSURANCE",
+  "phi_seed": {
+    "patient": "Morgan Shah",
+    "mrn": "MRN-7600018",
+    "dob": "1988-07-19",
+    "npi": "1000000306"
+  },
+  "filename_stem": "doc_insurance_018"
+}

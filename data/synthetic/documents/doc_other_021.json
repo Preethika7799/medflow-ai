@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_other_021",
+  "category": "OTHER",
+  "phi_seed": {
+    "patient": "Jordan Blake",
+    "mrn": "MRN-7600021",
+    "dob": "1971-10-22",
+    "npi": "1000000357"
+  },
+  "filename_stem": "doc_other_021"
+}

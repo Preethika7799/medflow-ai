@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_lab_results_014",
+  "category": "LAB_RESULTS",
+  "phi_seed": {
+    "patient": "Casey Lopez",
+    "mrn": "MRN-7600014",
+    "dob": "1984-03-15",
+    "npi": "1000000238"
+  },
+  "filename_stem": "doc_lab_results_014"
+}

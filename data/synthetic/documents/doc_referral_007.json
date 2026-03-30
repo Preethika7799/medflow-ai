@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_referral_007",
+  "category": "REFERRAL",
+  "phi_seed": {
+    "patient": "Riley Patel",
+    "mrn": "MRN-7600007",
+    "dob": "1977-08-08",
+    "npi": "1000000119"
+  },
+  "filename_stem": "doc_referral_007"
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_records_request_012",
+  "category": "RECORDS_REQUEST",
+  "phi_seed": {
+    "patient": "Riley Patel",
+    "mrn": "MRN-7600012",
+    "dob": "1982-01-13",
+    "npi": "1000000204"
+  },
+  "filename_stem": "doc_records_request_012"
+}

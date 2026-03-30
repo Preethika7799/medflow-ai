@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_other_023",
+  "category": "OTHER",
+  "phi_seed": {
+    "patient": "Morgan Shah",
+    "mrn": "MRN-7600023",
+    "dob": "1973-12-24",
+    "npi": "1000000391"
+  },
+  "filename_stem": "doc_other_023"
+}

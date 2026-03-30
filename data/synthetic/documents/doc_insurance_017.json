@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_insurance_017",
+  "category": "INSURANCE",
+  "phi_seed": {
+    "patient": "Riley Patel",
+    "mrn": "MRN-7600017",
+    "dob": "1987-06-18",
+    "npi": "1000000289"
+  },
+  "filename_stem": "doc_insurance_017"
+}

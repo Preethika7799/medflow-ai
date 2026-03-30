@@ -1,0 +1,12 @@
+env: development
+
+llm:
+  provider: ollama
+  model: llama3.2:latest
+
+langfuse:
+  enabled: false
+
+ocr:
+  preprocessing:
+    remove_noise: false

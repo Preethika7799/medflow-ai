@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_referral_006",
+  "category": "REFERRAL",
+  "phi_seed": {
+    "patient": "Jordan Blake",
+    "mrn": "MRN-7600006",
+    "dob": "1976-07-07",
+    "npi": "1000000102"
+  },
+  "filename_stem": "doc_referral_006"
+}

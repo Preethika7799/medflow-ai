@@ -1,0 +1,6 @@
+PATIENT: Riley Patel  MRN MRN-7600002  DOB 1972-03-03
+PRIOR AUTHORIZATION REQUEST
+Requested procedure: MRI lumbar spine without contrast.
+CPT: 72148  Diagnosis: M54.5 low back pain.
+Ordering provider NPI: 1000000034
+Medical necessity: persistent radicular symptoms 8 weeks.

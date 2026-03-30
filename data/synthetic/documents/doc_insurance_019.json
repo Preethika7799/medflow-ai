@@ -1,0 +1,11 @@
+{
+  "doc_id": "doc_insurance_019",
+  "category": "INSURANCE",
+  "phi_seed": {
+    "patient": "Casey Lopez",
+    "mrn": "MRN-7600019",
+    "dob": "1989-08-20",
+    "npi": "1000000323"
+  },
+  "filename_stem": "doc_insurance_019"
+}

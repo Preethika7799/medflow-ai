@@ -1,0 +1,6 @@
+PATIENT: Casey Lopez  MRN MRN-7600004  DOB 1974-05-05
+PRIOR AUTHORIZATION REQUEST
+Requested procedure: MRI lumbar spine without contrast.
+CPT: 72148  Diagnosis: M54.5 low back pain.
+Ordering provider NPI: 1000000068
+Medical necessity: persistent radicular symptoms 8 weeks.

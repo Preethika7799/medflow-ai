@@ -1,0 +1,55 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: 6333
+      MEDFLOW_ENV: development
+    depends_on:
+      - qdrant
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      MEDFLOW_API_BASE: http://api:8000
+    depends_on:
+      - api
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  langfuse-server:
+    image: langfuse/langfuse:2
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgresql://langfuse:langfuse@langfuse-db:5432/langfuse
+      NEXTAUTH_SECRET: mysecret
+      SALT: mysalt
+      NEXTAUTH_URL: http://localhost:3000
+    depends_on:
+      - langfuse-db
+
+  langfuse-db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: langfuse
+      POSTGRES_PASSWORD: langfuse
+      POSTGRES_DB: langfuse
+    volumes:
+      - langfuse_data:/var/lib/postgresql/data
+
+volumes:
+  qdrant_data:
+  langfuse_data:
